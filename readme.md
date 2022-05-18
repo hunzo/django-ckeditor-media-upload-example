@@ -1,1 +1,1 @@
-# django ckeditor media upload
+# django ckeditor media upload example
