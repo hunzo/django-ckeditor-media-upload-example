@@ -1,0 +1,1 @@
+# django ckeditor media upload
